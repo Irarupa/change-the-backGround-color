@@ -1,2 +1,2 @@
-# change-the-backGround-color
-color changes with the moving of mouse
+# p5.play-boilerplate
+CLASS 20 PROJECT BOILERPLATE
